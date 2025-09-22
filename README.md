@@ -25,8 +25,8 @@ Con __alma emprendedora__ y __curioso por naturaleza__, busco nuevas formas de r
 ## Algunas estadísticas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" alt="Mis lenguajes favoritos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdev128&custom_title=Mis%20lenguajes%20favoritos&locale=es&card_width=500px&theme=transparent" />
+  <img align="top" alt="Mis lenguajes favoritos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdev128&custom_title=Mis%20lenguajes%20favoritos&locale=es&card_width=400px&layout=compact&langs_count=5&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" alt="Mi actividad en GitHub" src="https://github-readme-stats.vercel.app/api?username=jdev128&hide=stars&locale=es&show_icons=true&include_all_commits=true&text_bold=false&custom_title=Mi%20actividad%20en%20GitHub&line_height=30&rank_icon=github&card_width=500px&theme=transparent" />
+  <img align="top" alt="Mi actividad en GitHub" src="https://github-readme-stats.vercel.app/api?username=jdev128&hide=stars&locale=es&show_icons=true&include_all_commits=true&text_bold=false&custom_title=Mi%20actividad%20en%20GitHub&rank_icon=github&card_width=500px&theme=transparent" />
 </a>
