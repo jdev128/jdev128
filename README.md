@@ -9,7 +9,7 @@ Soy un __Desarrollador Frontend React con más de 4 años de experiencia__ en eq
 
 Gracias a mi __adaptabilidad__ y mi __experiencia previa en backend e infraestructura__, puedo interactuar de manera efectiva con cualquier persona y soy capaz de gestionar la comunicación con equipos externos, coordinar tareas o capacitar a nuevos colaboradores sin problema.
 
-Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir conocimiento y conectar con las personas para crear __soluciones digitales de calidad que aporten valor__ a la sociedad y al planeta.
+Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir conocimiento y __crear soluciones digitales que aporten un valor real__ a la sociedad y al planeta, por lo que siempre estoy buscando nuevas formas de mejorar la __calidad__ del software y la __experiencia de cada usuario__.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
