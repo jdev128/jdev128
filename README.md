@@ -113,7 +113,7 @@ Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir co
 ## Algunas estadísticas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" alt="Mi actividad en GitHub" src="https://github-readme-stats.vercel.app/api?username=jdev128&hide=stars&locale=es&show_icons=true&include_all_commits=true&text_bold=false&custom_title=Mi%20actividad%20en%20GitHub&rank_icon=github&card_width=470px&theme=transparent" />
+  <img align="top" alt="Mi actividad en GitHub" src="https://github-readme-stats.vercel.app/api?username=jdev128&hide=stars&locale=es&show_icons=true&text_bold=false&custom_title=Mi%20actividad%20en%20GitHub&rank_icon=github&card_width=470px&theme=transparent" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
