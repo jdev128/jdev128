@@ -17,9 +17,7 @@ Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona __crear solu
   
 - ⚡ En mis ratos libres podés encontrarme disfrutando de una sesión de __lectura__ o __meditación__, haciendo __ejercicio__, disfrutando de la __naturaleza__ o volviendo locos a mis vecinos con mis sesiones de __canto__ 😏
   
-- 💬 Escribime si queres hablar sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__ o __emprendedurismo__. Me gustaría muchísimo que podamos continuar creciendo juntos 🤓
-  
-- 📫 Si querés intercambiar conocimiento, o que le demos forma a esa próxima gran idea de negocio, __podés encontrarme en [LinkedIn](https://www.linkedin.com/in/mauricio-pisco) o [X](https://x.com/MauricioPisco)__.
+- 💬 Si queres hablar sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__, __emprendedurismo__ o que le demos forma a esa próxima gran idea de negocio, __podés encontrarme en [LinkedIn](https://www.linkedin.com/in/mauricio-pisco) o [X](https://x.com/MauricioPisco)__.
 
 - Si querés conocer más de mi __trayectoria__ y los __proyectos__ en los que estuve trabajando, podés hacerlo a través de los siguientes enlaces:
   
