@@ -5,11 +5,9 @@
 
 ## Sobre mi
 
-Soy un __Desarrollador Frontend React con más de 4 años de experiencia__ en equipos ágiles, diseñando e implementando interfaces web responsive para compañías de medicina prepaga.
+Soy un __Desarrollador Frontend React con 3 años de experiencia__ diseñando e implementando aplicaciones web responsive en equipos ágiles de medicina prepaga. Gracias a mis __habilidades de liderazgo__ y mi __experiencia previa en backend e infraestructura__, puedo interactuar de manera efectiva con cualquier persona, lo que me ha llevado a gestionar la comunicación con equipos externos, coordinar tareas y capacitar a nuevos colaboradores.
 
-Gracias a mi __adaptabilidad__ y mi __experiencia previa en backend e infraestructura__, puedo interactuar de manera efectiva con cualquier persona y soy capaz de gestionar la comunicación con equipos externos, coordinar tareas o capacitar a nuevos colaboradores sin problema.
-
-Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir conocimiento y __crear soluciones digitales que aporten un valor real__ a la sociedad y al planeta, por lo que siempre estoy buscando nuevas formas de mejorar la __calidad__ del software y la __experiencia de cada usuario__.
+Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona __crear soluciones digitales que aporten valor__ a la sociedad y al planeta, por lo que siempre estoy buscando nuevas formas de mejorar la __calidad__ del software y la __experiencia de cada usuario__.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
@@ -19,7 +17,7 @@ Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir co
   
 - ⚡ En mis ratos libres podés encontrarme disfrutando de una sesión de __lectura__ o __meditación__, haciendo __ejercicio__, disfrutando de la __naturaleza__ o volviendo locos a mis vecinos con mis sesiones de __canto__ 😏
   
-- 💬 Preguntáme lo que desees sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__ o __emprendedurismo__. Me gustaría muchísimo que podamos continuar aprendiendo juntos 🤓
+- 💬 Escribime si queres hablar sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__ o __emprendedurismo__. Me gustaría muchísimo que podamos continuar creciendo juntos 🤓
   
 - 📫 Si querés intercambiar conocimiento, o que le demos forma a esa próxima gran idea de negocio, __podés encontrarme en [LinkedIn](https://www.linkedin.com/in/mauricio-pisco) o [X](https://x.com/MauricioPisco)__.
 
@@ -36,14 +34,6 @@ Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir co
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-</a>
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> 
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> 
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -78,10 +68,6 @@ Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona compartir co
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-</a>
-
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> 
 </a>
 
 <!-- Infra / Backend -->
