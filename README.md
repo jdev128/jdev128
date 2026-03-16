@@ -19,7 +19,7 @@ Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona __crear solu
   
 - 💬 Si queres hablar sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__, __emprendedurismo__ o que le demos forma a esa próxima gran idea de negocio, __podés encontrarme en [LinkedIn](https://www.linkedin.com/in/mauricio-pisco) o [X](https://x.com/MauricioPisco)__.
 
-- Si querés conocer más de mi __trayectoria__ y los __proyectos__ en los que estuve trabajando, podés hacerlo a través de los siguientes enlaces:
+- En los siguientes enlaces podes conocer más de mi __trayectoria__ y los __últimos proyectos__ en los que estuve trabajando:
   
   - 📄 [Curriculum en línea](https://jdev128.github.io/web-cv/)
   - 👨‍💻 [Catálogo de proyectos](https://jdev128-portfolio.netlify.app/#projects).
