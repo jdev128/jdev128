@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-Soy un __Desarrollador Frontend React con 3 años de experiencia__ diseñando e implementando aplicaciones web responsive en equipos ágiles de medicina prepaga. Gracias a mis __habilidades de liderazgo__ y mi __experiencia previa en backend e infraestructura__, puedo interactuar de manera efectiva con cualquier persona, lo que me ha llevado a gestionar la comunicación con equipos externos, coordinar tareas y capacitar a nuevos colaboradores.
+Soy un __Desarrollador Frontend React con 3 años de experiencia__ diseñando e implementando aplicaciones web y mobile híbridas en equipos ágiles de medicina prepaga. Gracias a mis __habilidades de liderazgo__ y mi __experiencia previa en backend e infraestructura__, puedo interactuar de manera efectiva con cualquier persona, lo que me ha llevado a gestionar la comunicación con equipos externos, coordinar tareas y capacitar a nuevos colaboradores.
 
 Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona __crear soluciones digitales que aporten valor__ a la sociedad y al planeta, por lo que siempre estoy buscando nuevas formas de mejorar la __calidad__ del software y la __experiencia de cada usuario__.
   
