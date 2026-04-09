@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-**Analista Programador (UNPSJB)** con más de **6 años de experiencia** en el ciclo de vida de desarrollo de software. Mi perfil combina una base técnica sólida en **Backend e Infraestructura (Java, SQL, Kubernetes)** con una fuerte experiencia en desarrollo **Frontend con React**.
+**Analista Programador (UNPSJB)** con más de **6 años de experiencia** en el ciclo de vida de desarrollo de software. Mi perfil combina una sólida base técnica en **Backend e Infraestructura (Java, SQL, Kubernetes)** con una fuerte experiencia en desarrollo **Frontend con React**.
 
 Mi foco actual se centra en la construcción de interfaces robustas bajo estándares de **Accesibilidad (WCAG)** y **Rendimiento (Core Web Vitals)**, asegurando la calidad mediante **TypeScript** y el diseño de estrategias de **Testing Automatizado**.
 
