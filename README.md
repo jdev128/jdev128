@@ -1,7 +1,5 @@
 # Hola, soy Mauricio !! Bienvenidx a mi perfil 👋
 
-<br/>
-
 ## Sobre mi
 
 **Analista Programador (UNPSJB)** con más de **6 años de experiencia** en el ciclo de vida de desarrollo de software. Mi perfil combina una sólida base técnica en **Backend e Infraestructura (Java, SQL, Kubernetes)** con una fuerte experiencia en desarrollo **Frontend con React**.
@@ -17,13 +15,6 @@ Gracias a mi experiencia en entornos críticos y mi dominio de **Figma**, cuento
 - 🌱 Actualmente me encuentro incorporando nuevas __herramientas de calidad de código__ para continuar mejorando la escalabilidad, el rendimiento y la accesibilidad de las soluciones que diseño.
   
 - ⚡ En mis ratos libres podés encontrarme disfrutando de una sesión de __lectura__ o __meditación__, haciendo __ejercicio__, disfrutando de la __naturaleza__ o volviendo locos a mis vecinos con mis sesiones de __canto__ 😏
-  
-- 💬 Si queres hablar sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__, __emprendedurismo__ o que le demos forma a esa próxima gran idea de negocio, __podés encontrarme en [LinkedIn](https://www.linkedin.com/in/mauricio-pisco) o [X](https://x.com/MauricioPisco)__.
-
-- En los siguientes enlaces podes conocer más de mi __trayectoria__ y los __últimos proyectos__ en los que estuve trabajando:
-  
-  - 📄 [Curriculum en línea](https://jdev128.github.io/web-cv/)
-  - 👨‍💻 [Catálogo de proyectos](https://jdev128-portfolio.netlify.app/#projects).
 
 ## Mis herramientas
 
@@ -94,3 +85,12 @@ Gracias a mi experiencia en entornos críticos y mi dominio de **Figma**, cuento
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> 
 </a>
+
+## Contactame
+
+- 💬 Si queres hablar sobre __desarrollo web__, __diseño UX/UI__, __psicologia__, __liderazgo__, __emprendedurismo__ o que le demos forma a esa próxima gran idea de negocio, __podés encontrarme en [LinkedIn](https://www.linkedin.com/in/mauricio-pisco) o [X](https://x.com/MauricioPisco)__.
+
+- En los siguientes enlaces podes conocer más de mi __trayectoria__ y los __últimos proyectos__ en los que estuve trabajando:
+  
+  - 📄 [Curriculum en línea](https://jdev128.github.io/web-cv/)
+  - 👨‍💻 [Catálogo de proyectos](https://jdev128-portfolio.netlify.app/#projects).
