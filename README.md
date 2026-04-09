@@ -5,9 +5,11 @@
 
 ## Sobre mi
 
-Soy un __Desarrollador Frontend React con 3 años de experiencia__ diseñando e implementando aplicaciones web y mobile híbridas en equipos ágiles de medicina prepaga. Gracias a mis __habilidades de liderazgo__ y mi __experiencia previa en backend e infraestructura__, puedo interactuar de manera efectiva con cualquier persona, lo que me ha llevado a gestionar la comunicación con equipos externos, coordinar tareas y capacitar a nuevos colaboradores.
+**Analista Programador (UNPSJB)** con más de **6 años de experiencia** en el ciclo de vida de desarrollo de software. Mi perfil combina una base técnica sólida en **Backend e Infraestructura (Java, SQL, Kubernetes)** con una fuerte experiencia en desarrollo **Frontend con React**.
 
-Con __alma emprendedora__ y __curioso por naturaleza__, me apasiona __crear soluciones digitales que aporten valor__ a la sociedad y al planeta, por lo que siempre estoy buscando nuevas formas de mejorar la __calidad__ del software y la __experiencia de cada usuario__.
+Mi foco actual se centra en la construcción de interfaces robustas bajo estándares de **Accesibilidad (WCAG)** y **Rendimiento (Core Web Vitals)**, asegurando la calidad mediante **TypeScript** y el diseño de estrategias de **Testing Automatizado**.
+
+Gracias a mi experiencia en entornos críticos y mi dominio de **Figma**, cuento con total autonomía para liderar la comunicación entre **diseño y negocio**, entregando soluciones escalables y centradas en el usuario.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
