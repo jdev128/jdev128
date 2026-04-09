@@ -1,7 +1,6 @@
 # Hola, soy Mauricio !! Bienvenidx a mi perfil 👋
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdev128&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jdev128" /></a> </p>
 
 ## Sobre mi
 
@@ -94,20 +93,4 @@ Gracias a mi experiencia en entornos críticos y mi dominio de **Figma**, cuento
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> 
-</a>
-
-## Algunas estadísticas
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" alt="Mi actividad en GitHub" src="https://github-readme-stats.vercel.app/api?username=jdev128&hide=stars&locale=es&show_icons=true&text_bold=false&custom_title=Mi%20actividad%20en%20GitHub&rank_icon=github&card_width=470px&theme=transparent" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jdev128&custom_title=Mis%20lenguajes%20favoritos&locale=es&layout=compact&langs_count=5&card_width=470px&theme=transparent"
-      media="(width <= 992px)"
-    />
-    <img align="top" alt="Mis lenguajes favoritos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdev128&custom_title=Mis%20lenguajes%20favoritos&locale=es&layout=compact&langs_count=5&theme=transparent" />
-  </picture>
 </a>
