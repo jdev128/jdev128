@@ -2,11 +2,13 @@
 
 ## Sobre mi
 
-Full Stack Developer con +5 años de experiencia en sistemas críticos. Trabajo con **Java** y **React (TypeScript)**, desarrollando e integrando **APIs REST seguras** (**mTLS / SSL Pinning**) en entornos de alta disponibilidad.
+Full Stack Developer con +5 años de experiencia en sistemas críticos. Trabajo con **Java** y **React (TypeScript)**, desarrollando e integrando **APIs RESTful** en entornos de alta disponibilidad.
 
-Experiencia en desarrollo backend con **Java EE** y despliegue de soluciones con **Docker** y **Kubernetes** en entornos de producción. Familiaridad con **Spring Boot** para la construcción de APIs modernas.
+Experiencia en backend con **Java EE** y construcción de APIs con **Spring Boot**, utilizando **JPA / Hibernate** para persistencia de datos. Manejo de integraciones seguras (**mTLS / SSL Pinning**), consumo de servicios web y despliegue de aplicaciones mediante **Docker** y **Kubernetes**.
 
-Participo en **code reviews** y aplico criterios de **testing funcional** para asegurar la calidad de las entregas. Trabajo en la ejecución **end-to-end** (análisis, desarrollo y soporte), descomponiendo requerimientos complejos en soluciones ejecutables y generando documentación técnica para facilitar el onboarding.
+Colaboro en el desarrollo **end-to-end** (análisis, desarrollo y soporte) en entornos ágiles (**Scrum / Kanban**), participando en **code reviews** y aplicando criterios de **testing funcional** para asegurar la calidad de las entregas.
+
+Actualmente incorporando **JUnit / Mockito** y conocimientos de **AWS (EC2, S3, RDS, IAM)** en entornos de laboratorio.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
