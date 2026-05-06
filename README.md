@@ -8,7 +8,7 @@ Experiencia en backend con **Java EE** y construcción de APIs con **Spring Boot
 
 Colaboro en el desarrollo **end-to-end** (análisis, desarrollo y soporte) en entornos ágiles (**Scrum / Kanban**), participando en **code reviews** y aplicando criterios de **testing funcional** para asegurar la calidad de las entregas.
 
-Actualmente incorporando **JUnit / Mockito** y conocimientos de **AWS (EC2, S3, RDS, IAM)** en entornos de laboratorio.
+Actualmente incorporando **testing automatizado** con JUnit / Mockito y conocimientos de **AWS (EC2, S3, RDS, IAM)** en entornos de laboratorio.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
