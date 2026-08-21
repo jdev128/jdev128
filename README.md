@@ -2,19 +2,15 @@
 
 ## Sobre mi
 
-Full Stack Developer con +5 años de experiencia en sistemas críticos. Trabajo con **Java** y **React (TypeScript)**, desarrollando e integrando **APIs RESTful** en entornos de alta disponibilidad.
+Full Stack Developer con +5 años de experiencia en sistemas críticos de salud, con foco principal en desarrollo frontend usando **React**, **TypeScript** y **JavaScript**. Con experiencia en desarrollo de componentes reutilizables, interfaces responsive, gestión de estado e integración de **APIs REST** en aplicaciones web y móviles.
 
-Experiencia en backend con **Java EE** y construcción de APIs con **Spring Boot**, utilizando **JPA / Hibernate** para persistencia de datos. Manejo de integraciones seguras (**mTLS / SSL Pinning**), consumo de servicios web y despliegue de aplicaciones mediante **Docker** y **Kubernetes**.
+Aproximadamente **3 años de experiencia en backend con Java EE**, evolucionando servicios y dando soporte a iniciativas de migración. Experiencia con JBoss/WildFly, **servicios REST/SOAP**, **SQL Server** e integraciones seguras con **mTLS**.
 
-Colaboro en el desarrollo **end-to-end** (análisis, desarrollo y soporte) en entornos ágiles (**Scrum / Kanban**), participando en **code reviews** y aplicando criterios de **testing funcional** para asegurar la calidad de las entregas.
-
-Actualmente incorporando **testing automatizado** con JUnit / Mockito y conocimientos de **AWS (EC2, S3, RDS, IAM)** en entornos de laboratorio.
+Sólida experiencia colaborando con equipos de Arquitectura, Seguridad, Infraestructura, DevOps, QA y Producto en entornos ágiles. Actualmente transicionando de Java EE hacia **Spring Boot**, **JPA/Hibernate**, **PostgreSQL** y **pruebas automatizadas**.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
 - 👯 Busco colaborar en proyectos ágiles que generen un __impacto positivo en la sociedad y el planeta__, y en donde el usuario se coloque en el centro de cada decisión.
-  
-- 🌱 Actualmente me encuentro incorporando nuevas __herramientas de calidad de código__ para continuar mejorando la escalabilidad de las soluciones que diseño.
   
 - ⚡ En mis ratos libres podés encontrarme disfrutando de una sesión de __lectura__ o __meditación__, haciendo __ejercicio__, disfrutando de la __naturaleza__ o volviendo locos a mis vecinos con mis sesiones de __canto__ 😏
 
