@@ -2,11 +2,9 @@
 
 ## Sobre mi
 
-Full Stack Developer con **más de 5 años de experiencia** en sistemas críticos de salud, combinando desarrollo frontend con **React, TypeScript y JavaScript** y desarrollo backend con **Java**. Desarrollo de componentes reutilizables, interfaces responsive, gestión de estado e integración de **APIs REST** en aplicaciones web y móviles.
+Frontend Developer con **más de 5 años de experiencia** en desarrollo de software para sistemas críticos de salud, especializado en **React, TypeScript y JavaScript**. Experiencia en desarrollo de interfaces responsive, arquitectura de componentes reutilizables, gestión de estado e integración de **APIs REST** en aplicaciones web y móviles.
 
-Experiencia profesional en backend con **Java EE**, evolucionando **servicios REST/SOAP** existentes y participando en iniciativas de migración, con JBoss/WildFly, **SQL Server** e integraciones seguras **mTLS**.
-
-Trabajo en equipos ágiles distribuidos, colaborando con equipos de Arquitectura, Seguridad, Infraestructura, DevOps, QA y Producto en la implementación de soluciones. Actualmente transicionando de **Java EE hacia Spring Boot, JPA/Hibernate, PostgreSQL y pruebas automatizadas**.
+Trabajo multidisciplinario con equipos de Producto, Arquitectura, Seguridad, Infraestructura, DevOps y QA para la implementación de soluciones punta a punta en equipos ágiles distribuidos. Experiencia complementaria en backend con **Java EE**, evolucionando **servicios REST/SOAP**, integraciones seguras con **mTLS** y bases de datos **SQL Server**.
   
 - 🤔 Me interesa ayudar a crear soluciones que mejoren la __calidad de vida__ y la __empleabilidad__ de las personas, y que contribuyan a crear un __mundo más inclusivo, transparente y sustentable__.
 
